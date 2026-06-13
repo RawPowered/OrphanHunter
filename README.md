@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/orphanhunter-banner.png" alt="OrphanHunter — crawl variables, tables, and dead code" width="100%">
 
   # OrphanHunter v1.3
 

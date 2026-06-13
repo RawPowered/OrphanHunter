@@ -80,12 +80,8 @@ NOTES.md
 TODO.md
 SCRATCH.md
 
-# Archives (but keep assets/)
+# Archives
 *.zip
-*.tar.gz
-*.rar
-!assets/*.png
-!assets/*.jpg
 
 # Temporary files
 *.tmp

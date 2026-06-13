@@ -1,0 +1,5 @@
+PyQt5>=5.15
+lxml>=4.9
+chardet>=5.0
+packaging>=23.0
+mysql-connector-python>=8.0

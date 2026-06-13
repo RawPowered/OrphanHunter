@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SysMap project="OrphanHunter" updated="2026-06-13">
+  <Structure>
+    <File path="OrphanHunter.py" role="Portable entry: dependency bootstrap + GUI launch"/>
+    <File path="requirements.txt" role="Python dependencies"/>
+    <File path="CHANGELOG.md" role="Dated version history"/>
+    <Folder path="OrphanHunter/analyzer" role="Crawl and parse layer">
+      <File path="OrphanHunter/analyzer/reference_tracker.py" role="Line-level file/URL reference crawl"/>
+      <File path="OrphanHunter/analyzer/sql_parser.py" role="SQL dump table and column extraction"/>
+      <File path="OrphanHunter/analyzer/live_db_connector.py" role="Live MySQL crawl via config or saved credentials"/>
+      <File path="OrphanHunter/analyzer/php_parser.py" role="PHP include/require and variable patterns"/>
+      <File path="OrphanHunter/analyzer/css_analyzer.py" role="CSS selector conflict and usage crawl"/>
+      <File path="OrphanHunter/analyzer/dependency_graph.py" role="Cross-file dependency graph"/>
+      <File path="OrphanHunter/analyzer/url_analyzer.py" role="Hardcoded URL detection for migration"/>
+    </Folder>
+    <Folder path="OrphanHunter/scanner" role="Filesystem crawl"/>
+    <Folder path="OrphanHunter/operations" role="Backup, deletion, URL migration, sanity checks"/>
+    <Folder path="OrphanHunter/generators" role="Markdown docs and sitemap.xml"/>
+    <Folder path="OrphanHunter/gui" role="PyQt5 desktop UI"/>
+    <Folder path="EnVars" role="Structural and variable maps only"/>
+  </Structure>
+</SysMap>

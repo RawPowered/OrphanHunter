@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VarMap project="OrphanHunter" updated="2026-06-13">
+  <Var name="VERSION" value="1.3" usedIn="OrphanHunter/__init__.py,README.md" purpose="Current release"/>
+  <Var name="ENTRY_SCRIPT" value="OrphanHunter.py" usedIn="README.md" purpose="Launch command"/>
+  <Var name="GITHUB_REPO" value="https://github.com/GatoGodMode/OrphanHunter" usedIn="README.md" purpose="Public repository"/>
+  <Var name="ORPHANHUNTER_FOLDER" value=".ORPHANHUNTER" usedIn="OrphanHunter/operations/migration_manager.py" purpose="Self-migration target inside scanned projects"/>
+</VarMap>

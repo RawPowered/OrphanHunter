@@ -8,7 +8,7 @@ from packaging import version
 class VersionChecker:
     """Check for OrphanHunter updates on GitHub."""
     
-    GITHUB_API_URL = "https://api.github.com/repos/Hazardous-God/orphanhunter/releases/latest"
+    GITHUB_API_URL = "https://api.github.com/repos/GatoGodMode/OrphanHunter/releases/latest"
     CURRENT_VERSION = "1.3"
     
     def __init__(self):

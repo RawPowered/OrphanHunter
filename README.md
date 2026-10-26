@@ -7,7 +7,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
   [![Version](https://img.shields.io/badge/version-1.3-green.svg)](CHANGELOG.md)
-  [![Author](https://img.shields.io/badge/GitHub-GatoGodMode-181717?logo=github)](https://github.com/GatoGodMode)
+  [![Author](https://img.shields.io/badge/GitHub-RawPowered-181717?logo=github)](https://github.com/RawPowered)
 
 </div>
 
@@ -19,7 +19,7 @@ OrphanHunter is a **desktop crawl-and-audit tool** for PHP/SQL/JS web applicatio
 
 Built for legacy cleanup, pre-migration hardening, and ongoing codebase hygiene.
 
-**Created by:** [Joseph Edwards (@GatoGodMode)](https://github.com/GatoGodMode) · MIT licensed
+**Created by:** [Joseph Edwards (@RawPowered)](https://github.com/RawPowered) · MIT licensed
 
 ---
 
@@ -45,7 +45,7 @@ Built for legacy cleanup, pre-migration hardening, and ongoing codebase hygiene.
 **Requirements:** Python 3.7+ · Windows, macOS, or Linux
 
 ```bash
-git clone https://github.com/GatoGodMode/OrphanHunter.git
+git clone https://github.com/RawPowered/OrphanHunter.git
 cd OrphanHunter
 python OrphanHunter.py
 ```
@@ -122,7 +122,7 @@ CHANGELOG.md
 
 ## Contributing
 
-Issues and PRs welcome at [github.com/GatoGodMode/OrphanHunter](https://github.com/GatoGodMode/OrphanHunter).
+Issues and PRs welcome at [github.com/RawPowered/OrphanHunter](https://github.com/RawPowered/OrphanHunter).
 
 ---
 
@@ -132,4 +132,4 @@ MIT — see [LICENSE](LICENSE). Free for commercial and private use.
 
 ---
 
-**Related:** [GatoGodMode profile](https://github.com/GatoGodMode) · [CollectorBuyerPsych](https://github.com/GatoGodMode/CollectorBuyerPsych) · [RoofRoofTexas-Rebuild](https://github.com/GatoGodMode/RoofRoofTexas-Rebuild)
+**Related:** [RawPowered profile](https://github.com/RawPowered) · [CollectorBuyerPsych](https://github.com/RawPowered/CollectorBuyerPsych) · [RoofRoofTexas-Rebuild](https://github.com/RawPowered/RoofRoofTexas-Rebuild)
